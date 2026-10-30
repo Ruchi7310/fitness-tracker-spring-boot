@@ -1,5 +1,4 @@
-# fitness-tracker-spring-boot
-Fitness Tracker application built using Java, Spring Boot, PostgreSQL, Spring Security and JWT.
+
 # Fitness Tracker – Spring Boot Backend
 
 A backend application built with Java and Spring Boot to help users manage fitness activities, track their progress, and receive personalized recommendations.
